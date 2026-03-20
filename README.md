@@ -72,6 +72,6 @@ Run the app
 
 ## What's Next
 
-Complete the Streamlit UI with full analysis dashboard
-Add prompt iteration notebook documenting the refinement process
-Deploy to Streamlit Community Cloud
+1. Complete the Streamlit UI with full analysis dashboard
+2. Add prompt iteration notebook documenting the refinement process
+3. Deploy to Streamlit Community Cloud
