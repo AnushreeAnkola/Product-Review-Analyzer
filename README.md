@@ -80,3 +80,7 @@ Run the app
 ```bash
     streamlit run app.py
 ```
+
+## Live Demo
+
+[Try the app here](https://a-review-analyzer.streamlit.app/)

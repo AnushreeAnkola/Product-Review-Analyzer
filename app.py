@@ -1,3 +1,5 @@
+import html
+
 import streamlit as st
 from utils.sample_reviews import reviews
 from prompts.summarize import summarize_review, summarize_for_shipping, summarize_for_value
@@ -212,7 +214,7 @@ def render_topic_pills(topics_input):
 
 
 def render_result_card(title, content):
-    content = str(content)
+    content = str(html.escape(content))
     st.markdown(
         f'<div class="result-card"><h4>{title}</h4><p>{content}</p></div>',
         unsafe_allow_html=True,
