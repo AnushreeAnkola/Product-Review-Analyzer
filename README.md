@@ -80,8 +80,3 @@ Run the app
 ```bash
     streamlit run app.py
 ```
-
-## What's Next
-
-1. Add prompt iteration notebook documenting the refinement process
-3. Deploy to Streamlit Community Cloud
