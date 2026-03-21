@@ -1,6 +1,12 @@
 # Product Review Analyzer
 AI-powered product review analysis using prompt engineering techniques learned from DeepLearning.AI's **ChatGPT Prompt Engineering for Developers** course.
 
+![App Screenshot](assets/analyze_review.png)
+
+![App Screenshot](assets/translate_review.png)
+
+![App Screenshot](assets/compare_review.png)
+
 ## About
 
 This project applies prompt engineering concepts:
@@ -10,14 +16,19 @@ This project applies prompt engineering concepts:
 - and expanding 
 
 to analyze product reviews and extract meaningful insights. 
+Every feature maps directly to a module from the course, demonstrating practical prompt engineering without any fine-tuning or custom ML models.
+
 
 ## Features
 
-1. Summarize : Generate concise summaries of reviews, with focused summaries for shipping and value
-2. Infer : Detect sentiment, emotions, topics, and purchase recommendation
-3. Transform : Translate reviews, adjust tone, and fix grammar
-4. Expand : Auto-generate customer service replies tailored to review sentiment
-5. Streamlit UI : Interactive web app with sample review selector (in progress)
+- **Summarize**: Concise review summaries with focused views for shipping and value
+- **Infer**: Sentiment detection, emotion analysis, topic extraction, and purchase recommendation
+- **Transform**: Translate reviews to multiple languages, adjust tone, and fix grammar
+- **Expand**: Auto-generate customer service replies tailored to review sentiment
+- **Compare**: Side-by-side analysis of two product reviews
+- **Download Report**: Export analysis results as a markdown file
+- **Interactive UI**: Streamlit app with sidebar controls, feature toggles, progress tracking, and support for both sample and custom reviews
+
 
 ## Tech Stack
 
