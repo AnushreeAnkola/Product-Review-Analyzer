@@ -43,7 +43,7 @@ Every feature maps directly to a module from the course, demonstrating practical
 
 ## Setup
 
-Clone the repo
+Clone the repo and enter the folder
 
 ```bash
     git clone https://github.com/AnushreeAnkola/Product-Review-Analyzer.git
