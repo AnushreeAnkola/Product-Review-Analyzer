@@ -3,12 +3,6 @@ AI-powered product review analysis using prompt engineering techniques learned f
 
 🚀 **[Try the live app](https://a-review-analyzer.streamlit.app/)**
 
-![App Screenshot](assets/analyze_review.png)
-
-![App Screenshot](assets/translate_review.png)
-
-![App Screenshot](assets/compare_review.png)
-
 ## About
 
 This project applies prompt engineering concepts:
