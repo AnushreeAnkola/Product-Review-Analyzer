@@ -1,6 +1,8 @@
 # Product Review Analyzer
 AI-powered product review analysis using prompt engineering techniques learned from DeepLearning.AI's **ChatGPT Prompt Engineering for Developers** course.
 
+🚀 **[Try the live app](https://a-review-analyzer.streamlit.app/)**
+
 ![App Screenshot](assets/analyze_review.png)
 
 ![App Screenshot](assets/translate_review.png)
@@ -80,7 +82,3 @@ Run the app
 ```bash
     streamlit run app.py
 ```
-
-## Live Demo
-
-[Try the app here](https://a-review-analyzer.streamlit.app/)
